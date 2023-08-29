@@ -20,7 +20,8 @@
   "about": {
     "title": "About me",
     "image": "/IMG_8181.jpg",
-    "primary": "I'm a motivated software engineer with a creative approach to solving complex challenges. My technical expertise is complemented by a strong sense of visual aesthetics, enabling me to create software that combines functionality with captivating design. Drawing from my experience as a medical responder, I excel in rapid assessment and response, highlighting quick thinking and adaptability. These skills seamlessly transition into software engineering, where I emphasize detail and problem-solving to craft life-enhancing solutions. My pride lies in my continuous pursuit of innovative problem-solving methods."
+    "primary": "I'm a motivated software engineer with a creative approach to solving complex challenges. My technical expertise is complemented by a strong sense of visual aesthetics, enabling me to create software that combines functionality with captivating design. Drawing from my experience as a medical responder, I excel in rapid assessment and response, highlighting quick thinking and adaptability. These skills seamlessly transition into software engineering, where I emphasize detail and problem-solving to craft life-enhancing solutions. My pride lies in my continuous pursuit of innovative problem-solving methods.",
+    "secondary": ""
   },
   "projects": {
     "title": "Projects",
