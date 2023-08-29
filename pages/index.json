@@ -14,14 +14,13 @@
 		}
 	],
   "hero": {
-    "name": "Your Name",
-    "subtitle": "I'm the Unknown Developer."
+    "name": "Austin Lew",
+    "subtitle": "I'm a Fullstack Software Engineer."
   },
   "about": {
     "title": "About me",
     "image": "/placeholder.png",
-    "primary": "This is where you can describe about yourself. The more you describe about yourself, the more chances you have!",
-    "secondary": "Extra Information about you! like hobbies and your goals."
+    "primary": "I'm a motivated software engineer with a creative approach to solving complex challenges. My technical expertise is complemented by a strong sense of visual aesthetics, enabling me to create software that combines functionality with captivating design. Drawing from my experience as a medical responder, I excel in rapid assessment and response, highlighting quick thinking and adaptability. These skills seamlessly transition into software engineering, where I emphasize detail and problem-solving to craft life-enhancing solutions. My pride lies in my continuous pursuit of innovative problem-solving methods."
   },
   "projects": {
     "title": "Projects",
