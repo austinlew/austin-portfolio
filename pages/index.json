@@ -28,24 +28,31 @@
     "projects": [
       {
         "title": "JobJog",
-        "description": "Empowering streamlined employee onboarding and task delegation, our sophisticated platform integrates detailed task parameters, visual progress tracking via photos, and efficient clock-in/out for shifts. With secure user registration and login functionalities for employees and administrators, seamless AWS-powered media storage, and user-friendly interfaces designed with HTML, CSS, JavaScript, Python and Django, we've harnessed APIs for authentication, task management, media uploads, and progress tracking. Hosting on Heroku extends accessibility, ensuring our solution thrives online.",
-        "url": "http://www.example.com/project1",
-        "github": "http://www.example.com/github",
+        "description": "Collaborating on this multifaceted project, I honed my leadership skills while working in a diverse team. We created a sophisticated platform facilitating seamless employee onboarding, task delegation, and progress tracking through visual data. Utilizing clear communication, we integrated AWS-powered media storage, Python, Django, and APIs for authentication, task management, and media uploads. Facing challenges head-on, we ensured smooth operations and hosted our solution on Heroku for widespread accessibility. This experience reinforced my proactive problem-solving approach and showcased my adaptability in mastering new technologies.",
+        "url": "https://jobjog-fd80191af9f7.herokuapp.com/",
+        "github": "https://github.com/sarahganz/jobjog",
         "image": "/JobJog.jpg"
       },
       {
-				"title": "Project 2",
-				"description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
-				"url": "http://www.example.com/project2",
-        "github": "http://www.example.com/github",
-				"image": "/JobJog.jpg"
+				"title": "Touch Grass",
+				"description": "In this collaborative project, I showcased both technical expertise and leadership skills. Working closely with a diverse team, I effectively communicated ideas, always explaining which tasks I shall work ondelegated tasks, and ensured a harmonious workflow, reflecting strong interpersonal and leadership qualities. Additionally, leveraging my mastery of a second language, I maintained a high level of professionalism, facilitating clear and efficient communication throughout the project's development.",
+        "url": "https://touch-grass-valorant-cdfffdd5ddc5.herokuapp.com/",
+        "github": "https://github.com/jabbacalvin56/valorant-lineups",
+				"image": "/TouchGrass1.jpg"
 			},
       {
-				"title": "Project 3",
-				"description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.",
-				"url": "http://www.example.com/project3",
-        "github": "http://www.example.com/github",
-				"image": "/JobJog.jpg"
+				"title": "Slackers",
+				"description": "In this project, I demonstrated my commitment to delivering a robust solution by utilizing the MERN Stack, Socket.io, Material UI, and MongoDB. I showcased perseverance in overcoming challenges and remained open to alternative solutions, emphasizing adaptability. This portfolio reflects not only the technologies employed but also my ability to effectively leverage them for optimal outcomes.",
+				"url": "https://slackers-app-bf7c32b0fdb2.herokuapp.com/",
+        "github": "https://github.com/Asianous/Slackers",
+				"image": "/Slackers.jpg"
+			},
+      {
+				"title": "Star Wars Game",
+				"description": "In my debut project, using HTML, CSS, and JavaScript, I showcased my programming skills and personal growth. As a novice, I was unwaveringly committed to learning and completing the project. My journey emphasized perseverance in the face of challenges, while embracing alternative solutions. This modest project symbolizes my dedication, adaptability, and early steps in the programming world.",
+				"url": "https://austinlew.github.io/Star-Wars-Matching-Game/",
+        "github": "https://github.com/austinlew/Star-Wars-Matching-Game",
+				"image": "/StarWars1.jpg"
 			}
     ]
   },
